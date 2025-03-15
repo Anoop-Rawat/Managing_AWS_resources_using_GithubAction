@@ -7,3 +7,5 @@ terraform init > terraform plan > terraform apply command
 
 Aws access key and secret key stored in secret
 
+There is a comment in main.tf file so we need to remove those comment to create the EC2 instances.
+
